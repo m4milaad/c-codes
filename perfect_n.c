@@ -18,7 +18,7 @@ int main(int argc, char const *argv[])
             }
         }
         if (sum == i)
-            printf("%d ", i);
+            printf("%zu ", i);
     }
 
     return 0;
